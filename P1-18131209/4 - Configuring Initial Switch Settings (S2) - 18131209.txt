@@ -134,7 +134,7 @@ service password-encryption
 !
 hostname S2
 !
-enable secret 5 $1$mERr$Q6jTPHEPct3xaC3FOO.as1
+enable secret 5 $1$mERr$ILwq/b7kc.7X/ejA4Aosn0
 enable password 7 08221D0A0A49
 !
 !

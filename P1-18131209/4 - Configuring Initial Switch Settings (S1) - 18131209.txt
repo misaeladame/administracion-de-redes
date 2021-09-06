@@ -404,7 +404,7 @@ no service password-encryption
 !
 hostname S1
 !
-enable secret 5 $1$mERr$Q6jTPHEPct3xaC3FOO.as1
+enable secret 5 $1$mERr$ILwq/b7kc.7X/ejA4Aosn0
 enable password c1$c0
 !
 !
@@ -502,7 +502,7 @@ no service password-encryption
 !
 hostname S1
 !
-enable secret 5 $1$mERr$Q6jTPHEPct3xaC3FOO.as1
+enable secret 5 $1$mERr$ILwq/b7kc.7X/ejA4Aosn0
 enable password c1$c0
 !
 !
@@ -620,7 +620,7 @@ service password-encryption
 !
 hostname S1
 !
-enable secret 5 $1$mERr$Q6jTPHEPct3xaC3FOO.as1
+enable secret 5 $1$mERr$ILwq/b7kc.7X/ejA4Aosn0
 enable password 7 08221D0A0A49
 !
 !
